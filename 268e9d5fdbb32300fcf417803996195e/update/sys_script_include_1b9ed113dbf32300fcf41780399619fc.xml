@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_11413_cicd_test.tst</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description>testing</description>
+        <name>tst</name>
+        <script><![CDATA[/**
+ * Class Description
+ * 
+ * @class 
+ * @author System Administrator [admin]
+ * @memberof x_11413_cicd_test.module:sys_script_include
+ */
+var tst = Class.create();
+tst.prototype = /** @lends x_11413_cicd_test.module:sys_script_include.tst.prototype */ {
+	/**
+	 * Description
+	 * 
+	 * @returns {undefined}
+	 */
+	initialize: function() {
+	},
+	
+	/**
+	 * Description
+	 * 
+	 * @returns {boolean}
+	 */
+	dummy: function(){
+		return true;
+	},
+	
+	type: 'tst'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-28 13:45:57</sys_created_on>
+        <sys_id>1b9ed113dbf32300fcf41780399619fc</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>tst</sys_name>
+        <sys_package display_value="CICD Test Application" source="x_11413_cicd_test">268e9d5fdbb32300fcf417803996195e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CICD Test Application">268e9d5fdbb32300fcf417803996195e</sys_scope>
+        <sys_update_name>sys_script_include_1b9ed113dbf32300fcf41780399619fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-13 19:08:00</sys_updated_on>
+    </sys_script_include>
+</record_update>

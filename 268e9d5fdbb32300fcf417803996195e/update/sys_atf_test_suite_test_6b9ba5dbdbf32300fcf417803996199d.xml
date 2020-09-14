@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="INSERT_OR_UPDATE">
+        <abort_on_failure>false</abort_on_failure>
+        <order/>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-28 14:42:09</sys_created_on>
+        <sys_id>6b9ba5dbdbf32300fcf417803996199d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2d8b65dbdbf32300fcf41780399619b1</sys_name>
+        <sys_package display_value="CICD Test Application" source="x_11413_cicd_test">268e9d5fdbb32300fcf417803996195e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CICD Test Application">268e9d5fdbb32300fcf417803996195e</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_6b9ba5dbdbf32300fcf417803996199d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-28 14:42:09</sys_updated_on>
+        <test display_value="CICD Test 2">e97ba99bdbf32300fcf41780399619c3</test>
+        <test_suite display_value="CICD Suite ">2d8b65dbdbf32300fcf41780399619b1</test_suite>
+    </sys_atf_test_suite_test>
+</record_update>
